@@ -12,7 +12,7 @@
       "description": "Serveur officiel Uranium PVP - NeoForge 1.21.1",
       "icon": "https://TON-HEBERGEMENT.exemple.com/icon.png",
       "version": "1.0.0",
-      "address": "TODO_IP:PORT",
+      "address": "uranium.skymc.io:14518",,
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "Uranium",
